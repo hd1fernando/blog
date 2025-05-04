@@ -1,0 +1,7 @@
+[submodule "hd1fernando/themes/hugo-coder"]
+	path = hd1fernando/themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "hd1fernando/public"]
+	path = hd1fernando/public
+	url = git@github.com:hd1fernando/hd1fernando.github.io.git
+	branch = main
