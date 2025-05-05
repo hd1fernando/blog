@@ -5,3 +5,9 @@
 	path = hd1fernando/public
 	url = git@github.com:hd1fernando/hd1fernando.github.io.git
 	branch = main
+[submodule "hugo-theme-console"]
+	path = hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "hd1fernando/hugo-theme-console"]
+	path = hd1fernando/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
