@@ -1,5 +1,5 @@
-baseurl = "https://hd1fernando.github.io/"
-title = "hd1fernando"
+baseurl = "https://example.com/"
+title = "console-demo"
 theme = "hugo-theme-console"
 languageCode = "en-us"
 
@@ -11,10 +11,14 @@ languageCode = "en-us"
   # To disable animations, please remove or comment animationStyle parameter
   animateStyle = "animated zoomIn fast" 
 
-   [[params.navlinks]]
+  [[params.navlinks]]
+  name = "about/"
+  url = "about/"
+
+  [[params.navlinks]]
   name = "posts/"
   url = "posts/"
   
   [[params.navlinks]]
-  name = "experiencia/"
-  url = "experience/"
+  name = "photos/"
+  url = "photos/"
