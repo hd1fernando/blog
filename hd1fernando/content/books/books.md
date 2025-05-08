@@ -11,7 +11,6 @@ externalLink = ""
 series = []
 +++
 
-# Livros:
 
 ## Programação e Design deCódigo:
 - Orientação a Objetos e SOLID para Ninjas - Maurício Aniche
