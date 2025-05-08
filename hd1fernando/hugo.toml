@@ -18,3 +18,11 @@ languageCode = "en-us"
   [[params.navlinks]]
   name = "experiencia/"
   url = "experience/"
+
+ [[params.navlinks]]
+  name = "livros/"
+  url = "books/"
+
+  [[params.navlinks]]
+  name = "artigos/"
+  url = "papers/"
